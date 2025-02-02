@@ -1,0 +1,3 @@
+/home/alexandre/Project/cores/cmake-build-debug/CMakeFiles/cores.dir
+/home/alexandre/Project/cores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexandre/Project/cores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
